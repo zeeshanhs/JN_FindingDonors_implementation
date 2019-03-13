@@ -1,6 +1,6 @@
-# Machine Learning Engineer Nanodegree
+# Machine Learning Engineer
 # Supervised Learning
-## Project: Finding Donors for CharityML
+## Project: Finding Donors for Charity using Machine Learning
 
 ### Install
 
