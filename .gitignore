@@ -1,0 +1,5 @@
+/.git
+/.ipynb_checkpoints
+/__pycache__
+census.csv
+project_description.md
